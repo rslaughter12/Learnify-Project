@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7f6d59ad.css",
+    "main.js": "/static/js/main.470228f1.js",
+    "static/media/Sarah.png": "/static/media/Sarah.2e22d3524c908275ea23.png",
+    "static/media/Olena.jpg": "/static/media/Olena.198ad668d5974c433b74.jpg",
+    "static/media/beckee.jpg": "/static/media/beckee.3588dae256d74fdd7c4e.jpg",
+    "static/media/contactMe.png": "/static/media/contactMe.1ca3bd1cb0bb497a9730.png",
+    "static/media/ryan.jpg": "/static/media/ryan.00494ef66fa0f3d101a8.jpg",
+    "static/media/Riley.jpeg": "/static/media/Riley.c2ca9ef81e98195089f6.jpeg",
+    "static/media/learnify-logo__1_-removebg.png": "/static/media/learnify-logo__1_-removebg.71ba76c91fc4f3a6a367.png",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/index.html",
+    "main.7f6d59ad.css.map": "/static/css/main.7f6d59ad.css.map",
+    "main.470228f1.js.map": "/static/js/main.470228f1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7f6d59ad.css",
+    "static/js/main.470228f1.js"
+  ]
+}
